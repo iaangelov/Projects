@@ -1,0 +1,9 @@
+<bg.uni__sofia.fmi.oopjava.utils.User>
+  <name>admin</name>
+  <password>admin</password>
+  <permissions>
+    <bg.uni__sofia.fmi.oopjava.enums.Permissions>ADD_REMOVE_USER</bg.uni__sofia.fmi.oopjava.enums.Permissions>
+    <bg.uni__sofia.fmi.oopjava.enums.Permissions>ENCRYPT</bg.uni__sofia.fmi.oopjava.enums.Permissions>
+    <bg.uni__sofia.fmi.oopjava.enums.Permissions>DECRYPT</bg.uni__sofia.fmi.oopjava.enums.Permissions>
+  </permissions>
+</bg.uni__sofia.fmi.oopjava.utils.User>
