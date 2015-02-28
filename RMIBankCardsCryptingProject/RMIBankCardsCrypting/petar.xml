@@ -1,0 +1,7 @@
+<bg.uni__sofia.fmi.oopjava.utils.User>
+  <name>petar</name>
+  <password>petar</password>
+  <permissions>
+    <bg.uni__sofia.fmi.oopjava.enums.Permissions>DECRYPT</bg.uni__sofia.fmi.oopjava.enums.Permissions>
+  </permissions>
+</bg.uni__sofia.fmi.oopjava.utils.User>
