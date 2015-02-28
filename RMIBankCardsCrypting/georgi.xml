@@ -1,7 +1,0 @@
-<bg.uni__sofia.fmi.oopjava.utils.User>
-  <name>georgi</name>
-  <password>georgi</password>
-  <permissions>
-    <bg.uni__sofia.fmi.oopjava.enums.Permissions>ENCRYPT</bg.uni__sofia.fmi.oopjava.enums.Permissions>
-  </permissions>
-</bg.uni__sofia.fmi.oopjava.utils.User>
